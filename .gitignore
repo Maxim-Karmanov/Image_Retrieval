@@ -1,0 +1,16 @@
+# Dataset images (too large for git — download Tiny ImageNet-200 separately)
+data/
+
+# FAISS index (regenerate with main.ipynb)
+*.faiss
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
