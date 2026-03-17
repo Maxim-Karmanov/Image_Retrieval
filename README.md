@@ -29,11 +29,11 @@ CLIP обучен на парах (изображение, текст), поэт
 
 ### Пример: поиск по изображению
 
-![alt text](assets\bug.png)
+![alt text](assets/bug.png)
 
 ### Пример: поиск по тексту `"car on a road"`
 
-![alt text](assets\car_on_a_road.png)
+![alt text](assets/car_on_a_road.png)
 
 ## Стек
 
